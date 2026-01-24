@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PRANAV BALAJI P MA</h1>
+<h1 align="center">Hi 👋 , I'm PRANAV BALAJI P MA</h1>
 <h3 align="center">Software Developer with a strong interest in backend development and emerging technologies such as AI, Machine Learning, and Fintech. Solid foundation in computer science fundamentals and problem-solving. Enjoys building scalable solutions, learning new technologies, and turning ideas into practical applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PranavbalajiGit&label=Profile%20views&color=0e75b6&style=flat" alt="PranavbalajiGit" /> </p>
