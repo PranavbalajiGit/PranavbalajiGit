@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend development and emerging technologies such as AI, machine learning, and fintech**
 
-- 👨‍💻 All of my projects are available at [<Portfolio Link Soon>](<Portfolio Link Soon>)
+- 👨‍💻 All of my projects are available at Public Repo.
 
 - 💬 Ask me about **AI & ML, Web3 , Blockchain and Web Application**
 
