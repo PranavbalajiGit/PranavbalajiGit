@@ -80,7 +80,7 @@ I'm PRANAV BALAJI P MA, a Software Developer with a strong interest in backend d
 
 
 
-## 💻 Tech Stack & Tools | Python, AI & Mobile Development
+## 💻 Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Tech%20Journey-In%20Progress-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Technology Journey"/>
 </p>
@@ -202,7 +202,11 @@ I'm PRANAV BALAJI P MA, a Software Developer with a strong interest in backend d
         <h3>🎯 Talent IQ - One-on-One Interview Platform</h3>
         <p>
         A full-stack MERN-based interview platform enabling seamless one-on-one technical interviews with real-time video and secure authentication.
+        </p>
+        <p>
         Built as a single-domain architecture, serving a Vite-built React SPA directly from an Express server for simplified routing and deployment.
+        </p>
+        <p>
         Engineered reliable background jobs and CI/CD workflows using Inngest and Render, ensuring stable production builds and automated deployments.
         </p>
         <p>
@@ -223,7 +227,11 @@ I'm PRANAV BALAJI P MA, a Software Developer with a strong interest in backend d
         <h3>🌍 Connectly - Language Exchange Platform</h3>
         <p>
             A full-stack language exchange platform enabling real-time user interactions with secure authentication and scalable backend services.
+        </p>
+        <p>
             Implemented JWT-based authentication with HTTP-only cookies, fixing middleware control-flow issues to ensure reliable token validation and server stability.
+        </p>
+        <p>
             Optimized frontend data fetching using TanStack Query, eliminating redundant React state and enabling efficient caching, mutations, and consistent UI updates.
         </p>
         <p>
