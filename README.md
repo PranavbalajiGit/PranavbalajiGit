@@ -74,7 +74,7 @@ I'm PRANAV BALAJI P MA, a Software Developer with a strong interest in backend d
 - ☕ **Java Programming** - Strong foundation in Core Java, OOP principles, and backend-oriented Java development
 - 📊 **AI/ML & Data Science (Learning & Exploring)** - Exploring machine learning, data analysis, and real-world AI use cases
 - 👁️ **Computer Vision (Interest Area)** - Learning image-based intelligence and visual data processing concepts
-- 📂 **VVersion Control & Collaboration** Using Git & GitHub for clean code and collaborative development
+- 📂 **Version Control & Collaboration** Using Git & GitHub for clean code and collaborative development
 
 <div style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
