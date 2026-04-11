@@ -260,7 +260,7 @@ I'm PRANAV BALAJI P MA, a Software Developer with a strong interest in backend d
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| 🤖 **Talent-IQ** | One - One Interview Platform | 🟢 Active |
+| 🤖 **Luma-Studio** | AI SAAS - Image Generation | 🟢 Active |
 | 🔍 **Dent-Wise** | AI - Voice Assisted Dental Care SAAS Platform  | 🟡 On - Hold |
 
 </div>
