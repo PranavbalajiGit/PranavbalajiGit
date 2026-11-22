@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Hi,+I%27m+PRANAV+BALAJI+P+MA+%F0%9F%91%8B;Senior+Software+Developer+%26+Systems+Builder+%E2%9A%A1;Applied+AI+%26+Generative+AI+Engineer+%F0%9F%A7%A0;Architecting+Scalable+Microservices+%26+APIs+%F0%9F%9A%80;Full-Stack+Web+%26+Real-Time+Concurrency+%F0%9F%8C%90;Exploring+LLM+Agents+%26+Cognitive+Architectures+%F0%9F%94%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Hi,+I%27m+PRANAV+BALAJI+P+MA+%F0%9F%91%8B;Software+Developer+%26+Systems+Builder+%E2%9A%A1;Applied+AI+%26+Generative+AI+Engineer+%F0%9F%A7%A0;Architecting+Scalable+Microservices+%26+APIs+%F0%9F%9A%80;Full-Stack+Web+%26+Real-Time+Concurrency+%F0%9F%8C%90;Exploring+LLM+Agents+%26+Cognitive+Architectures+%F0%9F%94%AC" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -241,7 +241,7 @@ I am **PRANAV BALAJI P MA**, a **Software Engineer & Applied AI / Systems Enthus
 
 | Initiative / Project | Domain & Architecture | Core Technical Focus | Status |
 |:---------------------|:----------------------|:---------------------|:------:|
-| ⚡ **Profile Analyzer** | AI / Developer Tooling & LLM Agents | Ingests GitHub repositories and developer profiles to evaluate architecture patterns, code quality metrics, and tech stacks using LLM reasoning agents. | <img src="https://img.shields.io/badge/Active_Development-brightgreen?style=flat-square" alt="Active Development"/> |
+| ⚡ **Profile Analyzer** | EdTech & Institutional Analytics Engine | Multi-platform performance analytics system that aggregates and benchmarks student coding profiles across GitHub, LeetCode, and Codeforces to compute weighted rankings and institutional leaderboards. | <img src="https://img.shields.io/badge/Active_Development-brightgreen?style=flat-square" alt="Active Development"/> |
 | 🦷 **Dent-Wise** | Healthcare AI / Clinical Voice SaaS | Voice-assisted dental care SaaS utilizing ambient clinical speech-to-text (Whisper/Medical NLP) for automated patient record generation. | <img src="https://img.shields.io/badge/In_Progress-yellow?style=flat-square" alt="In Progress"/> |
 | 🤖 **Autonomous Agent Orchestration** | Applied AI & Cognitive Systems | Investigating multi-agent collaboration, deterministic tool invocation, RAG optimization benchmarks, and low-latency edge LLM inference. | <img src="https://img.shields.io/badge/Research_Phase-blueviolet?style=flat-square" alt="Research Phase"/> |
 
